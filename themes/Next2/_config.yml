@@ -154,7 +154,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588096674621&di=3f6f4dfb6ea1e503e3363baf4bd12451&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F7LsWdDW5_xN3otqbppnN2DJv%2Fzhidao%2Fpic%2Fitem%2F6609c93d70cf3bc7d6739407da00baa1cc112aed.jpg
 
 # Table Of Contents in the Sidebar
 toc:
