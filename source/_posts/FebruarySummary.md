@@ -2,6 +2,8 @@
 title: FebruarySummary
 date: 2020-03-01 17:28:15
 tags:
+    -心得
+categories: 心得
 ---
 # 二月总结
 ## 思想：

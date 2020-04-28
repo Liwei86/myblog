@@ -1,7 +1,9 @@
 ---
 title: DataStruct
 date: 2020-03-08 10:26:26
-tags: DataStruct
+tags: 
+    -DataStruct
+categories: 数据结构学习笔记
 ---
 # 数据结构-二叉树
 ## 二叉树的4种基本遍历：
