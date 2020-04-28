@@ -110,11 +110,11 @@ menu_icons:
 # Scheme Settings
 # ---------------------------------------------------------------
 
-# Schemes
+#Schemes
 #scheme: Muse
 #scheme: Mist
-scheme: Pisces
-#scheme: Gemini
+#scheme: Pisces
+scheme: Gemini
 
 
 # ---------------------------------------------------------------
